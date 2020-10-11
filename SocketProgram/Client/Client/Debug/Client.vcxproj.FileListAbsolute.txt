@@ -1,0 +1,2 @@
+C:\Personal\Study\Practice\SocketProgram\Client\Client\Debug\Client.exe
+C:\Personal\Study\Practice\SocketProgram\Client\Client\Debug\Client.pdb
