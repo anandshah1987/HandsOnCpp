@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Service.cpp
+  Generating Code...
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl WinService::Start(void)" (?Start@WinService@@UEAAXXZ)
+C:\Personal\Study\Practice\WinSocket\Server\x64\Debug\WinSocket.exe : fatal error LNK1120: 1 unresolved externals
